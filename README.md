@@ -1,2 +1,2 @@
 # MSC-Individual-Project 
-#King's College London MSc Dissertation Pyhton Code
+#King's College London MSc Dissertation Python Code
